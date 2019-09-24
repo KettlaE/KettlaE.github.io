@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-09-24T12:20:34.424Z</updated>
+  <updated>2019-09-24T12:38:22.367Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试2</title>
+    <link href="/20190924/%E6%B5%8B%E8%AF%952/"/>
+    <id>/20190924/测试2/</id>
+    <published>2019-09-24T12:38:22.000Z</published>
+    <updated>2019-09-24T12:38:22.367Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>9月23日</title>
     <link href="/20190924/9%E6%9C%8823%E6%97%A5/"/>
     <id>/20190924/9月23日/</id>
-    <published>2019-09-23T23:18:26.000Z</published>
-    <updated>2019-09-24T12:20:34.424Z</updated>
+    <published>2019-09-24T12:04:57.235Z</published>
+    <updated>2019-09-24T12:38:40.269Z</updated>
     
     <summary type="html">
     
@@ -29,15 +45,11 @@
       
         
         
-          &lt;p&gt;#9月23日&lt;/p&gt;
-&lt;p&gt;趁着舍友们离开宿舍的两分钟，品味难得且短暂的宁静早晨，实在是安逸至极的100秒。&lt;/p&gt;
-
+          &lt;p&gt;title: 测试2&lt;br&gt;author: Kettla&lt;br&gt;avatar: ‘&lt;a href=&quot;https://cdn.jsdelivr.net/gh/KettlaE/cdn@1.0/img/custom/avatar.jpg&amp;#39;&quot;
         
       
     
     </summary>
-    
-      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
