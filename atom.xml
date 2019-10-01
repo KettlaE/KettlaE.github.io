@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-09-24T12:38:22.367Z</updated>
+  <updated>2019-10-01T06:01:50.389Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于理发</title>
+    <link href="/20191001/%E5%85%B3%E4%BA%8E%E7%90%86%E5%8F%91/"/>
+    <id>/20191001/关于理发/</id>
+    <published>2019-10-01T05:51:14.000Z</published>
+    <updated>2019-10-01T06:01:50.389Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;以下皆为胡言乱语&quot;&gt;&lt;a href=&quot;#以下皆为胡言乱语&quot; class=&quot;headerlink&quot; title=&quot;以下皆为胡言乱语&quot;&gt;&lt;/a&gt;以下皆为胡言乱语&lt;/h1&gt;&lt;h2 id=&quot;写在开始&quot;&gt;&lt;a href=&quot;#写在开始&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>测试2</title>
@@ -28,28 +52,6 @@
     </summary>
     
       <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>9月23日</title>
-    <link href="/20190924/9%E6%9C%8823%E6%97%A5/"/>
-    <id>/20190924/9月23日/</id>
-    <published>2019-09-24T12:04:57.235Z</published>
-    <updated>2019-09-24T12:38:40.269Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;title: 测试2&lt;br&gt;author: Kettla&lt;br&gt;avatar: ‘&lt;a href=&quot;https://cdn.jsdelivr.net/gh/KettlaE/cdn@1.0/img/custom/avatar.jpg&amp;#39;&quot;
-        
-      
-    
-    </summary>
     
     
   </entry>
