@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-10-02T05:46:34.292Z</updated>
+  <updated>2019-10-04T12:13:17.529Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nazo三周年报告</title>
+    <link href="/20191004/Nazo-Games-Three-Years/"/>
+    <id>/20191004/Nazo-Games-Three-Years/</id>
+    <published>2019-10-04T12:09:48.000Z</published>
+    <updated>2019-10-04T12:13:17.529Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Nazo三周年报告&quot;&gt;&lt;a href=&quot;#Nazo三周年报告&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>视频测试</title>
